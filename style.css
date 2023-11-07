@@ -1,0 +1,15 @@
+.card1 , .card2, .card3{    
+    width: 15rem;
+    height: 22rem;
+    margin: 2rem;
+}
+
+.imgStyle {
+    width: 15rem;
+    height: 18rem;
+}
+
+.title {
+    font-family: monospace;
+    font-size: 1rem;
+}
